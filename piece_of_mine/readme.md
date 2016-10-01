@@ -40,7 +40,7 @@ BMSの公開は、G2R2014の"Technotris (Jazzy Mix)"以来の二度目となり�
 
 これらの譜面を遊ぶためには、以下のいずれかの方法をとってください。
 
-1. http://circularrhythm.github.io/?server=circularrhythm.github.io/BOFU2016MusicServer にアクセス(推奨)
+1. http://circularrhythm.github.io/?server=http://circularrhythm.github.io/BOFU2016MusicServer にアクセス(推奨)
 2. _cr.zipをその場に展開し、 http://circularrhythm.github.io/ のメニュー画面にフォルダをドロップ
 
 デフォルトのキー設定では、内側から順にGFDS(左側)、HJKL(右側)です。シングルプレイではどちらを使っても構いません。センターのノートはSpaceです。
