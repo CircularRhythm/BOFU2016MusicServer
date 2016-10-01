@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Piece of Mine",
+    "genre": "JUSCO HOUSE",
+    "artist": "Greentea",
+    "basedir": "piece_of_mine",
+    "packed_assets": true,
+    "charts": {
+      "single": [
+        {
+          "file": "_circ_single_easy.bmson",
+          "chart_name": "Single Easy",
+          "level": 3,
+          "bpm": {
+            "initial": 122,
+            "min": 122,
+            "max": 122
+          },
+          "notes": 334
+        },
+        {
+          "file": "_circ_single_hard.bmson",
+          "chart_name": "Single Hard",
+          "level": 9,
+          "bpm": {
+            "initial": 122,
+            "min": 122,
+            "max": 122
+          },
+          "notes": 636
+        }
+      ],
+      "double": [
+        {
+          "file": "_circ_double_medium.bmson",
+          "chart_name": "Double Medium",
+          "level": 8,
+          "bpm": {
+            "initial": 122,
+            "min": 122,
+            "max": 122
+          },
+          "notes": 533
+        },
+        {
+          "file": "_circ_double_hard.bmson",
+          "chart_name": "Double Hard",
+          "level": 10,
+          "bpm": {
+            "initial": 122,
+            "min": 122,
+            "max": 122
+          },
+          "notes": 678
+        }
+      ]
+    },
+    "subtitle": "",
+    "subartists": [],
+    "banner_image": null,
+    "preview_music": null
+  }
+]
